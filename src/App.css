@@ -1,0 +1,9 @@
+nav ul li a {
+  color: white; /* Cor normal */
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: blue;
+  cursor: pointer;
+}
